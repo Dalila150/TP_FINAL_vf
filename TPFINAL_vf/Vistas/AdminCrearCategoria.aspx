@@ -30,27 +30,24 @@
         <div class="EspacioBarraNavegacion" style="padding-top: 35px;">
             <ul class="nav">
                 <li class="name">
-                    <a href="#">Home</a>
+                    <a href="/AdminHome.aspx">Home</a>
                 </li>
                 <li class="name">
-                    <a href="#">Categorias</a>
+                    <a href="/AdminHome.aspx">Administracion</a>
                     <ul>
                         <li>
-                            <a href="/categoria.html">Monitores</a>
+                            <a href="/AdminListPro.aspx">Productos</a>
                         </li>
                         <li>
-                            <a href="/categoria.html">Televisores</a>
+                            <a href="/AdminListUsu.aspx">Usuarios</a>
                         </li>
                         <li>
-                            <a href="/categoria.html">Tablet</a>
+                            <a href="/AdminCrearCategoria.aspx">Categorias</a>
                         </li>
                         <li>
-                            <a href="/categoria.html">Celulares</a>
+                            <a href="/AdminCrearMarca.aspx">Marcas</a>
                         </li>
                     </ul>
-                </li>
-                <li class="name">
-                    <a href="#">Contacto</a>
                 </li>
             </ul>
         </div>
@@ -88,40 +85,7 @@
         </div>
     </div>
     
-    <footer>
-        <div>
-            <h2 class="cont">Contactenos</h2>
-            <!-- Iconos de redes sociales -->
-            <ul>
-                <li class="primerIco">
-                    <a href="https://www.instagram.com/"><i class="fab fa-instagram-square tamIcoRed" ;></i></a>
-                </li>
-                <li class="icoRedes">
-                    <a href="https://twitter.com/"><i class="fab fa-twitter tamIcoRed"></i></a>
-                </li>
-                <li class="icoRedes">
-                    <a href="https://facebook.com/"><i class="fab fa-facebook-square tamIcoRed"></i></a>
-                </li>
-                <li class="icoRedes">
-                    <a href="https://github.com/"><i class="fab fa-github tamIcoRed"></i></a>
-                </li>
-            </ul>
-            <ul>
-                <li class="primero">
-                    <i>Instagram</i>
-                </li>
-                <li class="redes">
-                    <i>Twitter</i>
-                </li>
-                <li class="redes">
-                    <i>Facebook</i>
-                </li>
-                <li class="redes">
-                    <i>Github</i>
-                </li>
-            </ul>
-        </div>
-    </footer>
+   
     </form>
 </body>
     <script type="text/javascript">
