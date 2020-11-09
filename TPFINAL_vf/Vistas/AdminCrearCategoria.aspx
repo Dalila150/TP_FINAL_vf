@@ -30,27 +30,24 @@
         <div class="EspacioBarraNavegacion" style="padding-top: 35px;">
             <ul class="nav">
                 <li class="name">
-                    <a href="#">Home</a>
+                    <a href="/AdminHome.aspx">Home</a>
                 </li>
                 <li class="name">
-                    <a href="#">Categorias</a>
+                    <a href="/AdminHome.aspx">Administracion</a>
                     <ul>
                         <li>
-                            <a href="/categoria.html">Monitores</a>
+                            <a href="/AdminListPro.aspx">Productos</a>
                         </li>
                         <li>
-                            <a href="/categoria.html">Televisores</a>
+                            <a href="/AdminListUsu.aspx">Usuarios</a>
                         </li>
                         <li>
-                            <a href="/categoria.html">Tablet</a>
+                            <a href="/AdminCrearCategoria.aspx">Categorias</a>
                         </li>
                         <li>
-                            <a href="/categoria.html">Celulares</a>
+                            <a href="/AdminCrearMarca.aspx">Marcas</a>
                         </li>
                     </ul>
-                </li>
-                <li class="name">
-                    <a href="#">Contacto</a>
                 </li>
             </ul>
         </div>
