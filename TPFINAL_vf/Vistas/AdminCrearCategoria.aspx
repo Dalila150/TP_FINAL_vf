@@ -88,40 +88,7 @@
         </div>
     </div>
     
-    <footer>
-        <div>
-            <h2 class="cont">Contactenos</h2>
-            <!-- Iconos de redes sociales -->
-            <ul>
-                <li class="primerIco">
-                    <a href="https://www.instagram.com/"><i class="fab fa-instagram-square tamIcoRed" ;></i></a>
-                </li>
-                <li class="icoRedes">
-                    <a href="https://twitter.com/"><i class="fab fa-twitter tamIcoRed"></i></a>
-                </li>
-                <li class="icoRedes">
-                    <a href="https://facebook.com/"><i class="fab fa-facebook-square tamIcoRed"></i></a>
-                </li>
-                <li class="icoRedes">
-                    <a href="https://github.com/"><i class="fab fa-github tamIcoRed"></i></a>
-                </li>
-            </ul>
-            <ul>
-                <li class="primero">
-                    <i>Instagram</i>
-                </li>
-                <li class="redes">
-                    <i>Twitter</i>
-                </li>
-                <li class="redes">
-                    <i>Facebook</i>
-                </li>
-                <li class="redes">
-                    <i>Github</i>
-                </li>
-            </ul>
-        </div>
-    </footer>
+   
     </form>
 </body>
     <script type="text/javascript">
